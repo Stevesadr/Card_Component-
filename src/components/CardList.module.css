@@ -1,0 +1,7 @@
+.cardlist_div {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: baseline;
+}

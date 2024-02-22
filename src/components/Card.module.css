@@ -1,0 +1,21 @@
+.contentDiv {
+  width: 300px;
+  height: 520px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.img_Content {
+  width: 300px;
+}
+.main_text {
+  text-align: center;
+}
+.information_text {
+  text-align: center;
+}
+.btn_div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

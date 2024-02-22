@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "HurmeGeometricSans1 Regular";
+  src: url("https://db.onlinewebfonts.com/t/ffbc3ea1520c6f642ab644685d775c25.eot");
+  src: url("https://db.onlinewebfonts.com/t/ffbc3ea1520c6f642ab644685d775c25.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/ffbc3ea1520c6f642ab644685d775c25.woff2")
+      format("woff2"),
+    url("https://db.onlinewebfonts.com/t/ffbc3ea1520c6f642ab644685d775c25.woff")
+      format("woff"),
+    url("https://db.onlinewebfonts.com/t/ffbc3ea1520c6f642ab644685d775c25.ttf")
+      format("truetype"),
+    url("https://db.onlinewebfonts.com/t/ffbc3ea1520c6f642ab644685d775c25.svg#HurmeGeometricSans1 Regular")
+      format("svg");
+}
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 2rem;
+
+  background-color: #fff;
+  font-family: "HurmeGeometricSans1 Regular";
+}
